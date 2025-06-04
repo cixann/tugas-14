@@ -1,0 +1,5 @@
+
+NIM = 20240040070
+Nama = ikhsan
+Alamat = jl.veteran1
+Kelas = TI24
